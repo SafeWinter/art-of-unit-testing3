@@ -57,9 +57,9 @@ Status available：:heavy_check_mark: (Completed) | :hourglass_flowing_sand: (Wo
 | :--: | :---------------------------------------------------------: | :----------------------: |
 |      |                 **Part I: Getting started**                 |                          |
 | Ch01 |           [The basics of unit testing](./Ch01.md)           |    :heavy_check_mark:    |
-| Ch02 |               [A first unit test](./Ch02.md)                | :hourglass_flowing_sand: |
+| Ch02 |               [A first unit test](./Ch02.md)                |    :heavy_check_mark:    |
 |      |                **Part II: Core techniques**                 |                          |
-| Ch03 |        [Breaking dependencies with stubs](./Ch03.md)        |        :no_entry:        |
+| Ch03 |        [Breaking dependencies with stubs](./Ch03.md)        | :hourglass_flowing_sand: |
 | Ch04 |     [Interaction testing using mock objects](./Ch04.md)     |        :no_entry:        |
 | Ch05 |              [Isolation frameworks](./Ch05.md)              |        :no_entry:        |
 | Ch06 |         [Unit testing asynchronous code](./Ch06.md)         |        :no_entry:        |
